@@ -18,8 +18,8 @@ software.
 
 ROM: IOS-XE ROMMON
 
-cisco3 uptime is 16 weeks, 3 days, 20 hours, 49 minutes
-Uptime for this control processor is 16 weeks, 3 days, 20 hours, 50 minutes
+cisco3 uptime is 17 weeks, 6 days, 3 hours, 15 minutes
+Uptime for this control processor is 17 weeks, 6 days, 3 hours, 16 minutes
 System returned to ROM by Critical software exception, check bootflash:crashinfo_RP_00_00_20220505-170432-PDT at 14:30:28 PST Tue Nov 30 2021
 System restarted at 17:10:12 PDT Thu May 5 2022
 System image file is "bootflash:c1100-universalk9_ias.16.12.03.SPA.bin"
@@ -106,7 +106,7 @@ Hardware
 
   Device name: nxos1
   bootflash:    3509454 kB
-Kernel uptime is 509 day(s), 23 hour(s), 37 minute(s), 41 second(s)
+Kernel uptime is 519 day(s), 6 hour(s), 3 minute(s), 42 second(s)
 
 Last reset 
   Reason: Unknown
@@ -145,7 +145,7 @@ Hardware
 
   Device name: nxos2
   bootflash:    3509454 kB
-Kernel uptime is 265 day(s), 9 hour(s), 59 minute(s), 27 second(s)
+Kernel uptime is 274 day(s), 16 hour(s), 25 minute(s), 28 second(s)
 
 Last reset 
   Reason: Unknown

@@ -33,3 +33,5 @@ end = time.time()
 elapsed_time = end - start
 print(output)
 print("\nElapsed Time With Delay: " + str(elapsed_time))
+
+net_connect.disconnect()
